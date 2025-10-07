@@ -20,3 +20,9 @@ Aditya Swami, Duncan Bijkerk, Ynze Visser, and Quita Carriere.<sub>June 2025</su
 
 [Bachelor End Project report](https://github.com/QSame9/Teleoperation-for-Mirte-Master/blob/main/Report%2C%20slides%20and%20analysis/Bachelor%20Thesis%20TUD%202025%20Teleoperation.pdf)
 
+## Model-Based-Control for Trajectory Tracking with a Mecanum Wheeled Vehicle
+Tim van der Spijk <sub>July 2024</sub>
+
+Investigates the benefits of using a trajectory tracking controller based on a dynamic model for a four-Mecanum-wheeled vehicle (FMWV) over a kinematic-model-based controller.
+
+[Master thesis](https://resolver.tudelft.nl/uuid:8a98e60c-0ef3-4965-aedf-db7798b31502)
